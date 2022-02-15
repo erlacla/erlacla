@@ -22,6 +22,53 @@
 </h1>
 </div>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="400" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+
+I am a Beginner Web Developer with some knowlege of python as well <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Arizona, USA.
+
+- :telescope: I’m finishing a batchelor degree in computer science, with an emphisis in frontend development for web applications.
+
+- :seedling: Exploring Python.
+
+- :zap: In my free time, I read, swim, and hang out with my family.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erin-engler143/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erlacla&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlacla)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### :writing_hand: Samples of my Work :
+<a href="https://erlacla.github.io/wdd230/chamberOfCommerce/">Link 1</a>
+<br>
+  <a href="https://erlacla.github.io/portfolio/week11/madLib/">Link 2</a>
+
 <!--
 **erlacla/erlacla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
