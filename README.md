@@ -67,7 +67,6 @@ I am a Beginner Web Developer with some knowlege of python as well <img src="htt
 ### :writing_hand: Samples of my Work :
 <a href="https://book-adventures.glitch.me/">First ever website</a>
 <br>
-https://book-adventures.glitch.me/
 <a href="https://erlacla.github.io/wdd230/chamberOfCommerce/">Chamber of commerce</a>
 <br>
 <a href="https://erinengler2021.wordpress.com/category/reverse-engineer/">Design class wordpress blog</a>
