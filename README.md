@@ -35,7 +35,7 @@ I am a Beginner Web Developer with some knowlege of python as well <img src="htt
 
 - :telescope: I’m finishing a batchelor degree in computer science, with an emphisis in frontend development for web applications.
 
-- :seedling: Exploring Python.
+- :seedling: Exploring Python and building my Wordpress expertise!
 
 - :zap: In my free time, I read, swim, and hang out with my family.
 
@@ -52,6 +52,7 @@ I am a Beginner Web Developer with some knowlege of python as well <img src="htt
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
 
 ---
