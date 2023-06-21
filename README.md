@@ -33,13 +33,13 @@
 
 I am studying to become a Web Developer and planning to graduate with a bachelor's degree in Applied Technology in December 2023 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to work from my home in Arizona, USA.
 
-- :telescope: I am also studying cybersecutity.
+- :telescope: Currently studying cybersecurity.
 
-- :seedling: Exploring Python, Wordpress expertise!
+- :seedling: Exploring Python, and building WordPress expertise!
 
 - :zap: In my free time, I read, swim, stargaze, and hang out with my family.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erin-engler143/)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erin-engler143/)
 
 ---
 
@@ -87,9 +87,9 @@ I am studying to become a Web Developer and planning to graduate with a bachelor
   <a href="https://erlacla.github.io/ZenGarden/">Zen Garden</a>
   <br>
   <!--  <a href="https://erinengler.com/">Erin Engler - Web Developer</a> -->
-  <br>
+  
   <!--  <a href="https://erlacla.github.io/phpmotors/">PHP Motors</a> -->
-  <br>
+  
   <a href="https://codepen.io/erlacla">My Codepen</a>
 
 <!--
