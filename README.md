@@ -98,12 +98,13 @@ I am studying to become a Web Developer and planning to graduate with a bachelor
   <a href="https://erlacla.github.io/portfolio/">WDD330 portfolio</a>
   <br>
   <a href="https://erlacla.github.io/ZenGarden/">Zen Garden</a>
-  
+  <br>
+  <a href="https://codepen.io/erlacla">My Codepen</a>
   <!--  <a href="https://erinengler.com/">Erin Engler - Web Developer</a> -->
   
   <!--  <a href="https://erlacla.github.io/phpmotors/">PHP Motors</a> -->
   
-  <a href="https://codepen.io/erlacla">My Codepen</a>
+ 
 
 <!--
 **erlacla/erlacla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
