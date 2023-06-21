@@ -98,7 +98,7 @@ I am studying to become a Web Developer and planning to graduate with a bachelor
   <a href="https://erlacla.github.io/portfolio/">WDD330 portfolio</a>
   <br>
   <a href="https://erlacla.github.io/ZenGarden/">Zen Garden</a>
-  <br>
+  
   <!--  <a href="https://erinengler.com/">Erin Engler - Web Developer</a> -->
   
   <!--  <a href="https://erlacla.github.io/phpmotors/">PHP Motors</a> -->
