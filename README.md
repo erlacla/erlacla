@@ -31,13 +31,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Beginner Web Developer with some knowlege of python as well <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Arizona, USA.
+I am studying to become a Web Developer and planning to graduate with a bachelor's degree in Applied Technology in December 2023 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to work from my home in Arizona, USA.
 
-- :telescope: I’m finishing a batchelor degree in computer science, with an emphisis in frontend development for web applications.
+- :telescope: I am also studying cybersecutity.
 
-- :seedling: Exploring Python and building my Wordpress expertise!
+- :seedling: Exploring Python, Wordpress expertise!
 
-- :zap: In my free time, I read, swim, and hang out with my family.
+- :zap: In my free time, I read, swim, stargaze, and hang out with my family.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erin-engler143/)
 
@@ -86,9 +86,9 @@ I am a Beginner Web Developer with some knowlege of python as well <img src="htt
   <br>
   <a href="https://erlacla.github.io/ZenGarden/">Zen Garden</a>
   <br>
-  <a href="https://erinengler.com/">Erin Engler - Web Developer</a>
+  <!--  <a href="https://erinengler.com/">Erin Engler - Web Developer</a> -->
   <br>
-  <a href="https://erlacla.github.io/phpmotors/">PHP Motors</a>
+  <!--  <a href="https://erlacla.github.io/phpmotors/">PHP Motors</a> -->
   <br>
   <a href="https://codepen.io/erlacla">My Codepen</a>
 
