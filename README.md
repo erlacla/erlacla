@@ -85,9 +85,9 @@ I am studying to become a Web Developer and planning to graduate with a bachelor
 ---
 
 ### :writing_hand: Samples of my Work :
-<a href="https://erin-engler.glitch.me/index.html" target="_blank">Rafting website</a>
+<a href="https://erin-engler.glitch.me/index.html" target="_blank" rel="noopener noreferrer">Rafting website</a>
 <br>
-<a href="https://book-adventures.glitch.me/" target="_blank">Book Adventures - First ever website</a>
+<a href="https://book-adventures.glitch.me/" target="_blank" rel="noopener noreferrer">Book Adventures - First ever website</a>
 <br>
 <a href="https://erlacla.github.io/wdd230/chamberOfCommerce/" target="_blank">Chamber of commerce</a>
 <br>
