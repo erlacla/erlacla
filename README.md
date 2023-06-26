@@ -85,27 +85,27 @@ I am studying to become a Web Developer and planning to graduate with a bachelor
 ---
 
 ### :writing_hand: Samples of my Work :
-<a href="https://erin-engler.glitch.me/index.html">Rafting website</a>
+<a href="https://erin-engler.glitch.me/index.html" target="_blank">Rafting website</a>
 <br>
-<a href="https://book-adventures.glitch.me/">Book Adventures - First ever website</a>
+<a href="https://book-adventures.glitch.me/" target="_blank">Book Adventures - First ever website</a>
 <br>
-<a href="https://erlacla.github.io/wdd230/chamberOfCommerce/">Chamber of commerce</a>
+<a href="https://erlacla.github.io/wdd230/chamberOfCommerce/" target="_blank">Chamber of commerce</a>
 <br>
-<a href="https://erinengler2021.wordpress.com/category/reverse-engineer/">Design class wordpress blog</a>
+<a href="https://erinengler2021.wordpress.com/category/reverse-engineer/" target="_blank">Design class wordpress blog</a>
 <br>
-<a href="https://improvement--movement.blogspot.com/">Parenting blog</a>
+<a href="https://improvement--movement.blogspot.com/" target="_blank">Parenting blog</a>
 <br>
-  <a href="https://erlacla.github.io/portfolio/week11/madLib/">Solar Madlib</a>
+  <a href="https://erlacla.github.io/portfolio/week11/madLib/" target="_blank">Solar Madlib</a>
   <br>
-  <a href="https://erlacla.github.io/wdd230/lesson11/">Beautiful Idaho Sky</a>
+  <a href="https://erlacla.github.io/wdd230/lesson11/" target="_blank">Beautiful Idaho Sky</a>
   <br>
-  <a href="https://erlacla.github.io/wdd230/">WDD230 portfolio</a>
+  <a href="https://erlacla.github.io/wdd230/" target="_blank">WDD230 portfolio</a>
   <br>
-  <a href="https://erlacla.github.io/portfolio/">WDD330 portfolio</a>
+  <a href="https://erlacla.github.io/portfolio/" target="_blank">WDD330 portfolio</a>
   <br>
-  <a href="https://erlacla.github.io/ZenGarden/">Zen Garden</a>
+  <a href="https://erlacla.github.io/ZenGarden/" target="_blank">Zen Garden</a>
   <br>
-  <a href="https://codepen.io/erlacla">My Codepen</a>
+  <a href="https://codepen.io/erlacla" target="_blank">My Codepen</a>
   <!--  <a href="https://erinengler.com/">Erin Engler - Web Developer</a> -->
   
   <!--  <a href="https://erlacla.github.io/phpmotors/">PHP Motors</a> -->
