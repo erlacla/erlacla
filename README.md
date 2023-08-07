@@ -39,7 +39,7 @@ I am studying to become a Web Developer and planning to graduate with a bachelor
 
 - :seedling: Exploring Python, and building WordPress expertise!
 
-- :telescope:In my free time, I read, swim, stargaze, and hang out with my family.
+- :telescope: In my free time, I read, swim, stargaze, and hang out with my family.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erin-engler143/)
 
