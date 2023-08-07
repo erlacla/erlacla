@@ -33,7 +33,9 @@
 
 I am studying to become a Web Developer and planning to graduate with a bachelor's degree in Applied Technology in December 2023 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to work from my home in Arizona, USA.
 
-- :telescope: Currently studying cybersecurity.
+- 🌟: Developing proficency in RESTful APIs and nodeJS.
+
+- :telescope: Knowlegable in cybersecurity.
 
 - :seedling: Exploring Python, and building WordPress expertise!
 
