@@ -31,7 +31,7 @@
 
 ### :woman_technologist: About Me :
 
-I am studying to become a Full Stack Developer and planning to graduate with a bachelor's degree in Applied Technology in December 2023 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> to work from my home in Arizona, USA.
+My dream is to be a experienced Full Stack Developer. I graduated with a bachelor degree of Science in Applied Technology in December 2023 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I plan to work from my home in Arizona, USA.
 
 - 🌟: Developing proficency in RESTful APIs and nodeJS.
 
@@ -39,7 +39,7 @@ I am studying to become a Full Stack Developer and planning to graduate with a b
 
 - :seedling: Exploring Python, and building WordPress expertise!
 
-- :telescope: In my free time I read, swim, stargaze, and hang out with my family.
+- :telescope: In my free time I read, do puzzles, swim, stargaze, and hang out with my family.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erin-engler143/)
 
